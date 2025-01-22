@@ -23,10 +23,6 @@
   </a>
   <a href="https://www.instagram.com/_boy_is_insta_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-    <a href="https://www.tiktok.com/@adikekl?_t=8g8zOu6jgzw&_r=1" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" height="25" alt="TikTok logo"  />
-  </a>
 <br>
 
 <h3 align="left">🛠 Language and tools</h3>

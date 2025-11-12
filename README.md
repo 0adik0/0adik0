@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/0adik0)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGL_HDtlTb15A/profile-displaybackgroundimage-shrink_350_1400/B4DZp4BG_0GwAY-/0/1762950148514?e=1764806400&v=beta&t=JHrJ9_DRoCd_Oi9TTP9D4jZqhe_Rfe9ET1OvS47hL5Y)](https://github.com/0adik0)
 
 ###
 

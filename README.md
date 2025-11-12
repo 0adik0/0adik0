@@ -10,7 +10,6 @@
 
 ###
 
-<p align="left">I'm Team Lead at Kanat Lead<br>
 <br>- 👨‍💻 All of my projects are available on my <a href="https://github.com/0adik0?tab=repositories">GitHub</a>
 <br>- 🌍 Poland, Krakow
 

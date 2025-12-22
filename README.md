@@ -107,7 +107,7 @@
   <!-- Transparent theme blends with any background -->
   <img src="https://github-readme-stats.vercel.app/api?username=potomyznaesh&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=00f2fe&text_color=ffffff&icon_color=00f2fe" alt="Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=potomyznaesh&theme=transparent&hide_border=true&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=0d1117" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=potomyznaesh&theme=transparent&hide_border=true&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=0d1117" alt="Streak" />
 </div>
 
 <br/>

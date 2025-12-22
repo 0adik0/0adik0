@@ -11,15 +11,15 @@
   <br/>
 
   <!-- Clean, pill-shaped social buttons -->
-  <a href="https://t.me/adlkz">
+  <a href="https://t.me/potomyznaesh">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/_bey_in_me_">
+  <a href="https://instagram.com/_boy_is_insta_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:storebek2@gmail.com">
+  <a href="mailto:akanatbek2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 
@@ -108,6 +108,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=potomyznaesh&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=00f2fe&text_color=ffffff&icon_color=00f2fe" alt="Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=potomyznaesh&theme=transparent&hide_border=true&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&background=0d1117" alt="Streak" />
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+  <h2>🧊 3D Stats</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potomyznaesh&theme=radical" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🃏 Dev Joke</h2>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d1117" alt="Jokes Card" />
 </div>
 
 <br/>
